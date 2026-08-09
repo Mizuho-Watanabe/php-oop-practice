@@ -7,7 +7,7 @@ COACHTECH 教材 Tutorial 7-3「オブジェクト指向 ハンズオン演習�
 - HTML
 - PHP
 
-##　学んだこと
+## 学んだこと
 - class Userの基礎
 - PHPはエラーじゃなくても赤文字になる
 
